@@ -13,3 +13,13 @@
 * Диаграмма прецедентов:
 
 ![none](http://www.plantuml.com/plantuml/png/fP5FIiD05CRNdLCyij95mGE8zC_AHJ7WmlMGZ6recf7951TMg4LmeITmezwWbaP3QjChVBcHBucLGjsvc9cFRtxluysRLcobiUDHAE9X45r98qSaFQiDtOX6Hth3lj7ZoE_gaAsBGM2LQBIDqTUrqmaPOL0RNvbTwtOdRnmhJyRgtucXkhHaDPcWFx3a1qPvDj2HgFjrZqZ6vE0PERumnnfBpAcOiloizdVanQnuG8gCaONpKzUhwxh530colGA6qotgLYHU_uhyZQkP5wmmvxjx9gPbFtHwTkw8xIZQ-qab_OX5TJuHDcod79BZ0mdMh1F26pP8YpisCyAI_PKZN6eswQ1zA7YLiYTu4iSJLgxeiJ4vuIUAbefy_kLl)
+
+# Лабораторная работа №2
+
+* Plan-Do-Check
+
+![none](https://github.com/cmpunk551/labs/blob/master/lab1/Безымянный.png)
+
+* DFD:
+
+![none](https://github.com/cmpunk551/labs/blob/master/lab1/DM-PKtR491U.jpg)
