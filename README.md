@@ -23,3 +23,17 @@
 * DFD:
 
 ![none](https://github.com/cmpunk551/labs/blob/master/lab1/DM-PKtR491U.jpg)
+
+# Лабораторная работа №3
+
+* DFD:
+
+![none](https://github.com/cmpunk551/labs/blob/master/lab1/DM-PKtR491U.jpg)
+
+* Диаграмма последовательности
+
+![none](http://www.plantuml.com/plantuml/png/RPA_JW8n7CTd-XI_iBFSI0n1d9mS79mBTr42N4clfp76n3yc3XfrSzJm1DNav08Ah_3ja_WA_ie5XDEXbzuld--VDcqcHcgJ3lhYUpeNIQyR3wMM0v8TepITYKfBTdg7MgLnkAFwF3euwff8LBQrLYV5fDLdX46bmqYlZyw5J8sAqq4xqa8KZbMymcBiBlZxXfcxShV8CQcIJ2XDc6lxAAbFcNnXAiSKCtmWmnVlimKdXyCDZ17BHZUOiU0JbdRtzfTW88ItfLh3_zK9JsnaMP5ZJ1ZXsVVg7aiJBMnvrHfUmEI8tJ9V4k-mHJnXGfYNQxa74KRhDilC8ZIeK_dGcC1k10S-cNxv4J9toLpEchNyFsMtQgk0Z0EkCNNtBFFNSKUysNJnNH_BNNa5gpF_S-KbFX3DA0xvmVm0)
+
+* ERD:
+
+![none](https://github.com/cmpunk551/labs/blob/master/%D0%9B%D0%B0%D0%B1%D0%B03.png)
